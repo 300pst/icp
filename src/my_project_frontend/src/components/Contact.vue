@@ -5,9 +5,9 @@
           GitHub
         </a>
         <a href="https://www.youtube.com/@eatpoopy" target="_blank" class="contact-item">
-          LinkedIn
+          YouTube
         </a>
-        <a href="mailto:your.email@example.com" class="contact-item">
+        <a href="mailto:piotrstolc1@gmail.com" class="contact-item">
           Email
         </a>
       </div>
